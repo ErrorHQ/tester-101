@@ -1,4 +1,4 @@
-# hello-world
+# Hello-World Tester
 ## Sub Header
 
 Hello World repository for Git tutorial
